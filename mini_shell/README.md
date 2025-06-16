@@ -108,3 +108,4 @@ struct builtin_cmd {
 ---
 
 ## 실제 실행 과정
+<img width="858" alt="스크린샷 2025-06-17 오전 3 50 52" src="https://github.com/user-attachments/assets/a0965a90-f733-4cc4-9162-63d21b9c7c7d" />
